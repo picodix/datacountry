@@ -96,3 +96,12 @@ Food
 
 Technology
 -----------
+
+* **Internet users** (total Internet users in the country)
+* **Internet rank**
+* **Internet country code**
+* **browsers** (browser repartition for the last year between ie/edge/chrome/safari/firefox/others)
+* **Average download** (average download speed for the country in Mpbs)
+* **Average upload** (average upload speed for the country in Mpbs)
+* **Mobile subscribers** (total number of mobile subscribers and percentage of total population)
+* **Social media users** (total number of users in the country for Facebook/Instagram/Messenger)
