@@ -105,3 +105,11 @@ Technology
 * **Average upload** (average upload speed for the country in Mpbs)
 * **Mobile subscribers** (total number of mobile subscribers and percentage of total population)
 * **Social media users** (total number of users in the country for Facebook/Instagram/Messenger)
+
+<br>
+
+<img src="./assets/soon.jpg" width="40" /> Economy
+-----------
+
+<img src="./assets/soon.jpg" width="40" /> Military
+-----------
