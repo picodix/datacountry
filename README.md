@@ -34,6 +34,11 @@
 General
 -----------
 
+* **Name**
+* **Population** (total, male, female and percentages)
+* **Currency** (code, symbol & label)
+* **Capital** (name & population)
+
 <br>
 
 Geography
