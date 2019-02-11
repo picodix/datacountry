@@ -18,3 +18,43 @@
 > All the data described bellow is available in the form of a monolithic json file named using 2 letters country code (_ISO 3166-1 alpha-2_) like so: **nz.json**. In the future I might split the file using the different categories described bellow. <br><br>
 > The scraping process can take quite some time (even being fully automated) but I will make sure to update the repo with newest countries as soon as it's ready.
 
+<br>
+<br>
+
+# **Table of Contents**
+* [General](#general)
+* [Geography](#geography)
+* [Environment](#environment)
+* [Social](#social)
+* [Food](#food)
+* [Technology](#technology)
+
+<br>
+
+General
+-----------
+
+<br>
+
+Geography
+-----------
+
+<br>
+
+Environment
+-----------
+
+<br>
+
+Social
+-----------
+
+<br>
+
+Food
+-----------
+
+<br>
+
+Technology
+-----------
