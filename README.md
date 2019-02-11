@@ -73,6 +73,17 @@ Environment
 Social
 -----------
 
+* **Life expectancy** (life expectancy for male/female in the country)
+* **Unemployment rate** (unemployment rate in the country)
+* **Growth rate** (growth rate in the country)
+* **Sex ratio** (number of men per women in the country)
+* **Infant mortality** (infant mortality in the country)
+* **Median age** (median age for male/female/total)
+* **Fertility rate** (fertility rate)
+* **Billionaires** (number of billionaires in the country)
+* **Prison population total** (number of prisoners and percentage of the total population)
+* **Suffrage**
+
 <br>
 
 Food
