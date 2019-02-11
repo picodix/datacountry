@@ -89,6 +89,9 @@ Social
 Food
 -----------
 
+* **Alcohol consumption** (beer/wine/spirits/others and total in litres per capita)
+* **McDonalds restaurants** (total of McDonalds restaurants in the country)
+
 <br>
 
 Technology
