@@ -44,6 +44,17 @@ General
 Geography
 -----------
 
+* **Surface area** (year, value & unit)
+* **Forest area** (year, value & unit, percentage of country surface)
+* **Agricultural area** (year, value & unit, percentage of country surface)
+* **Water area** (year, value & unit, percentage of country surface)
+* **Largest cities** (top 3 largest cities in the country)
+* **Natural resource** (list of natural resources available in the country)
+* **Coastline** (total coastline for the country)
+* **Elevation highest point** (name and altitude of the highest point in the country in meter)
+* **Elevation lowest point** (name and altitude of the lowest point in the country in meter)
+* **Highest city** (name and altitude of the highest city in the country in meter)
+
 <br>
 
 Environment
