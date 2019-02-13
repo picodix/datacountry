@@ -27,6 +27,7 @@
 * 🇦🇱 [Albania](./datasets/al.json)
 * 🇦🇲 [Armenia](./datasets/am.json)
 * 🇦🇹 [Austria](./datasets/at.json)
+* 🇦🇿 [Azerbaijan](./datasets/az.json)
 
 # **Table of Contents**
 * [General](#general)
