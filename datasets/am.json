@@ -1,0 +1,353 @@
+{
+	"name": "Armenia",
+	"iso2l": "am",
+	"iso3l": "arm",
+	"general": {
+		"name": "Armenia",
+		"population": [
+			{
+				"male": 1378342,
+				"female": 1552108,
+				"total": 2930450,
+				"year": 2017,
+				"percentageMale": 47,
+				"percentageFemale": 53,
+				"source": {
+					"domain": "countryeconomy.com",
+					"url": "https://countryeconomy.com/demography/population/armenia"
+				}
+			}
+		],
+		"currency": {
+			"code": "AMD",
+			"symbol": "դր",
+			"label": "Armenian Dram",
+			"source": {
+				"domain": "kestrel.ws",
+				"url": "http://www.kestrel.ws/currencies.html"
+			}
+		},
+		"capital": {
+			"name": "Yerevan",
+			"population": 1121900,
+			"source": {
+				"domain": "worldatlas.com",
+				"url": "https://www.worldatlas.com/capcitys.htm"
+			}
+		}
+	},
+	"geography": {
+		"surfaceArea": {
+			"year": 2017,
+			"value": 29740,
+			"unit": "sq. m",
+			"source": {
+				"domain": "indexmundi.com",
+				"url": "https://www.indexmundi.com/facts/armenia/indicator/AG.SRF.TOTL.K2"
+			}
+		},
+		"forestArea": {
+			"year": 2015,
+			"value": 3320,
+			"percentage": 11,
+			"unit": "sq. m",
+			"source": {
+				"domain": "indexmundi.com",
+				"url": "https://www.indexmundi.com/facts/armenia/indicator/AG.LND.FRST.K2"
+			}
+		},
+		"agriculturalArea": {
+			"year": 2015,
+			"value": 16764,
+			"percentage": 56,
+			"unit": "sq. m",
+			"source": {
+				"domain": "indexmundi.com",
+				"url": "https://www.indexmundi.com/facts/armenia/agricultural-land#AG.LND.AGRI.K2"
+			}
+		},
+		"waterArea": {
+			"year": 2013,
+			"value": 1540,
+			"percentage": 5,
+			"unit": "sq. m",
+			"source": {
+				"domain": "nationmaster.com",
+				"url": "https://www.nationmaster.com/country-info/stats/Geography/Area/Water"
+			}
+		},
+		"largestCities": [
+			"Yerevan",
+			"Gyumri",
+			"Vanadzor"
+		],
+		"naturalResources": [
+			"small deposits of gold",
+			"copper",
+			"molybdenum",
+			"zinc",
+			"bauxite"
+		],
+		"coastline": {
+			"unit": "km",
+			"value": 0,
+			"source": {
+				"domain": "nationmaster.com",
+				"url": "https://www.nationmaster.com/country-info/stats/Geography/Coastline"
+			}
+		},
+		"elevationsHighestPoint": {
+			"name": "Mount Aragats",
+			"height": 4090,
+			"unit": "m",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://simple.wikipedia.org/wiki/List_of_elevation_extremes_by_country"
+			}
+		},
+		"elevationsLowestPoint": {
+			"name": "Debed",
+			"height": 400,
+			"unit": "m",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://simple.wikipedia.org/wiki/List_of_elevation_extremes_by_country"
+			}
+		},
+		"highestCity": {
+			"name": "Jermuk",
+			"height": 2080,
+			"unit": "m",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_highest_towns_by_country"
+			}
+		}
+	},
+	"environment": {
+		"endangeredSpecies": {
+			"mammals": 9,
+			"birds": 13,
+			"reptiles": 7,
+			"amphibians": 0,
+			"fishes": 3,
+			"molluscs": 1,
+			"inverts": 6,
+			"total": 40,
+			"source": {
+				"domain": "theguardian.com",
+				"url": "https://www.theguardian.com/news/datablog/2013/nov/26/iucn-red-list-threatened-species-by-country-statistics"
+			}
+		},
+		"plantsThreatened": {
+			"value": 1,
+			"source": {
+				"domain": "theguardian.com",
+				"url": "https://www.theguardian.com/news/datablog/2013/nov/26/iucn-red-list-threatened-species-by-country-statistics"
+			}
+		},
+		"carbonDioxideEmissions": {
+			"unit": "kT",
+			"value": "-",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions"
+			}
+		},
+		"percentOfWorldEmissions": {
+			"unit": "%",
+			"value": "-",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions"
+			}
+		},
+		"electricityProductionRenewableSources": {
+			"unit": "%",
+			"year": 2016,
+			"value": 32.2,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_electricity_production_from_renewable_sources"
+			}
+		},
+		"nuclearPowerPlantsOperation": {
+			"value": 1,
+			"source": {
+				"domain": "iaea.org",
+				"url": "https://pris.iaea.org/PRIS/WorldStatistics/OperationalReactorsByCountry.aspx"
+			}
+		},
+		"nuclearPowerPlantsConstruction": {
+			"value": 0,
+			"source": {
+				"domain": "iaea.org",
+				"url": "https://pris.iaea.org/PRIS/WorldStatistics/UnderConstructionReactorsByCountry.aspx"
+			}
+		}
+	},
+	"social": {
+		"lifeExpectancy": {
+			"female": 77.7,
+			"male": 71.6,
+			"year": 2015,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy"
+			}
+		},
+		"unemploymentRate": {
+			"value": 15.3,
+			"source": {
+				"domain": "tradingeconomics.com",
+				"url": "https://tradingeconomics.com/country-list/unemployment-rate"
+			}
+		},
+		"growthRate": {
+			"value": -0.13,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_population_growth_rate"
+			}
+		},
+		"sexRatio": {
+			"value": 1.14,
+			"percentageMale": 47,
+			"percentageFemale": 53,
+			"year": 2017,
+			"source": {
+				"domain": "countryeconomy.com",
+				"url": "https://countryeconomy.com/demography/population/armenia"
+			}
+		},
+		"infantMortality": {
+			"value": 13.1,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate"
+			}
+		},
+		"medianAge": {
+			"male": 33.3,
+			"female": 36.9,
+			"total": 35.1,
+			"year": 2017,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_median_age"
+			}
+		},
+		"fertilityRate": {
+			"value": 1.601,
+			"source": {
+				"domain": "worldpopulationreview.com",
+				"url": "http://worldpopulationreview.com/countries/total-fertility-rate"
+			}
+		},
+		"billionaires": {
+			"value": 0,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_the_number_of_US_dollar_billionaires"
+			}
+		},
+		"prisonPopulationTotal": {
+			"value": 3536,
+			"percentage": 0.12,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_incarceration_rate"
+			}
+		},
+		"suffrage": {
+			"value": "18 years of age",
+			"source": {
+				"domain": "cia.gov",
+				"url": "https://www.cia.gov/library/publications/the-world-factbook/fields/311.html"
+			}
+		}
+	},
+	"food": {
+		"alcoholConsumption": {
+			"beer": 0.51,
+			"wine": 0.28,
+			"spirits": 4.49,
+			"others": 0,
+			"total": 5.3,
+			"unit": "litres per capita per year",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_alcohol_consumption"
+			}
+		},
+		"mcDonaldsRestaurants": {
+			"value": 0,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "http://en.wikipedia.org/wiki/List_of_countries_with_McDonald's_restaurants"
+			}
+		}
+	},
+	"technology": {
+		"internetUsers": {
+			"value": 1813386,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users"
+			}
+		},
+		"internetRank": {
+			"value": 116,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users"
+			}
+		},
+		"internetCountryCode": "am",
+		"browsers": {
+			"ie": 0,
+			"edge": 0,
+			"chrome": 53.43,
+			"safari": 6.39,
+			"firefox": 31.36,
+			"others": 8.82,
+			"source": {
+				"domain": "statcounter.com",
+				"url": "http://gs.statcounter.com/browser-market-share/all/armenia/#monthly-201801-201901"
+			}
+		},
+		"averageDownload": {
+			"unit": "Mbps",
+			"value": 21.94,
+			"source": {
+				"domain": "speedtest.net",
+				"url": "https://www.speedtest.net/global-index/armenia"
+			}
+		},
+		"averageUpload": {
+			"unit": "Mbps",
+			"value": 20.14,
+			"source": {
+				"domain": "speedtest.net",
+				"url": "https://www.speedtest.net/global-index/armenia"
+			}
+		},
+		"mobileSubscribers": {
+			"value": "-",
+			"percentage": "-",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use"
+			}
+		},
+		"socialMediaUsers": {
+			"facebook": 1355000,
+			"instagram": 717300,
+			"messenger": 846600,
+			"source": {
+				"domain": "napoleoncat.com",
+				"url": "https://napoleoncat.com/stats/social-media-users-in-Armenia/2019/01"
+			}
+		}
+	}
+}

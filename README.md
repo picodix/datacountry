@@ -25,6 +25,7 @@
 # **Available countries**
 
 * 🇦🇱 [Albania](./datasets/al.json)
+* 🇦🇲 [Armenia](./datasets/am.json)
 
 # **Table of Contents**
 * [General](#general)
