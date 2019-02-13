@@ -16,7 +16,8 @@
 # **Introduction**
 
 > All the data described bellow is available in the form of a monolithic json file named using 2 letters country code (_ISO 3166-1 alpha-2_) like so: **nz.json**. In the future I might split the file using the different categories described bellow. <br><br>
-> The scraping process can take quite some time (even being fully automated) but I will make sure to update the repo with newest countries as soon as it's ready.
+> The scraping process can take quite some time (even being fully automated) but I will make sure to update the repo with newest countries as soon as it's ready. <br><br>
+> **Note:** Some data may not be available for some countries in which case the value will be set to **-** (dash) as a way to signify it's not available.
 
 <br>
 <br>
