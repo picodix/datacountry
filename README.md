@@ -22,6 +22,10 @@
 <br>
 <br>
 
+# **Available countries**
+
+* 🇦🇱 [Albania](./datasets/al.json)
+
 # **Table of Contents**
 * [General](#general)
 * [Geography](#geography)
