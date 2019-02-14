@@ -31,6 +31,7 @@
 * 🇧🇾 [Belarus](./datasets/by.json)
 * 🇧🇪 [Belgium](./datasets/be.json)
 * 🇧🇦 [Bosnia and Herzegovina](./datasets/ba.json)
+* 🇧🇬 [Bulgaria](./datasets/bg.json)
 
 # **Table of Contents**
 * [General](#general)
