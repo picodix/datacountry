@@ -33,6 +33,7 @@
 * 🇧🇦 [Bosnia and Herzegovina](./datasets/ba.json)
 * 🇧🇬 [Bulgaria](./datasets/bg.json)
 * 🇭🇷 [Croatia](./datasets/hr.json)
+* 🇨🇾 [Cyprus](./datasets/cy.json)
 
 # **Table of Contents**
 * [General](#general)
