@@ -35,6 +35,7 @@
 * 🇭🇷 [Croatia](./datasets/hr.json)
 * 🇨🇾 [Cyprus](./datasets/cy.json)
 * 🇨🇿 [Czech Republic](./datasets/cz.json)
+* 🇩🇰 [Denmark](./datasets/dk.json)
 
 # **Table of Contents**
 * [General](#general)
