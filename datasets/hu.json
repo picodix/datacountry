@@ -1,0 +1,353 @@
+{
+	"name": "Hungary",
+	"iso2l": "hu",
+	"iso3l": "hun",
+	"general": {
+		"name": "Hungary",
+		"population": [
+			{
+				"male": 4652858,
+				"female": 5128269,
+				"total": 9781127,
+				"year": 2017,
+				"percentageMale": 47.6,
+				"percentageFemale": 52.4,
+				"source": {
+					"domain": "countryeconomy.com",
+					"url": "https://countryeconomy.com/demography/population/hungary"
+				}
+			}
+		],
+		"currency": {
+			"code": "HUF",
+			"symbol": "Ft",
+			"label": "Hungarian Forint",
+			"source": {
+				"domain": "kestrel.ws",
+				"url": "http://www.kestrel.ws/currencies.html"
+			}
+		},
+		"capital": {
+			"name": "Budapest",
+			"population": 1728718,
+			"source": {
+				"domain": "worldatlas.com",
+				"url": "https://www.worldatlas.com/capcitys.htm"
+			}
+		}
+	},
+	"geography": {
+		"surfaceArea": {
+			"year": 2017,
+			"value": 93030,
+			"unit": "sq. m",
+			"source": {
+				"domain": "indexmundi.com",
+				"url": "https://www.indexmundi.com/facts/hungary/indicator/AG.SRF.TOTL.K2"
+			}
+		},
+		"forestArea": {
+			"year": 2015,
+			"value": 20690,
+			"percentage": 22,
+			"unit": "sq. m",
+			"source": {
+				"domain": "indexmundi.com",
+				"url": "https://www.indexmundi.com/facts/hungary/indicator/AG.LND.FRST.K2"
+			}
+		},
+		"agriculturalArea": {
+			"year": 2015,
+			"value": 53470,
+			"percentage": 57,
+			"unit": "sq. m",
+			"source": {
+				"domain": "indexmundi.com",
+				"url": "https://www.indexmundi.com/facts/hungary/agricultural-land#AG.LND.AGRI.K2"
+			}
+		},
+		"waterArea": {
+			"year": 2013,
+			"value": 3420,
+			"percentage": 4,
+			"unit": "sq. m",
+			"source": {
+				"domain": "nationmaster.com",
+				"url": "https://www.nationmaster.com/country-info/stats/Geography/Area/Water"
+			}
+		},
+		"largestCities": [
+			"Budapest",
+			"Debrecen",
+			"Miskolc"
+		],
+		"naturalResources": [
+			"bauxite",
+			"coal",
+			"natural gas",
+			"fertile soils",
+			"arable land"
+		],
+		"coastline": {
+			"unit": "km",
+			"value": 0,
+			"source": {
+				"domain": "nationmaster.com",
+				"url": "https://www.nationmaster.com/country-info/stats/Geography/Coastline"
+			}
+		},
+		"elevationsHighestPoint": {
+			"name": "Kékes",
+			"height": 1014,
+			"unit": "m",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://simple.wikipedia.org/wiki/List_of_elevation_extremes_by_country"
+			}
+		},
+		"elevationsLowestPoint": {
+			"name": "Tisza",
+			"height": 76,
+			"unit": "m",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://simple.wikipedia.org/wiki/List_of_elevation_extremes_by_country"
+			}
+		},
+		"highestCity": {
+			"name": "Mátraszentimre",
+			"height": 810,
+			"unit": "m",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_highest_towns_by_country"
+			}
+		}
+	},
+	"environment": {
+		"endangeredSpecies": {
+			"mammals": 2,
+			"birds": 10,
+			"reptiles": 1,
+			"amphibians": 0,
+			"fishes": 9,
+			"molluscs": 8,
+			"inverts": 26,
+			"total": 66,
+			"source": {
+				"domain": "theguardian.com",
+				"url": "https://www.theguardian.com/news/datablog/2013/nov/26/iucn-red-list-threatened-species-by-country-statistics"
+			}
+		},
+		"plantsThreatened": {
+			"value": 10,
+			"source": {
+				"domain": "theguardian.com",
+				"url": "https://www.theguardian.com/news/datablog/2013/nov/26/iucn-red-list-threatened-species-by-country-statistics"
+			}
+		},
+		"carbonDioxideEmissions": {
+			"unit": "kT",
+			"value": "-",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions"
+			}
+		},
+		"percentOfWorldEmissions": {
+			"unit": "%",
+			"value": "-",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions"
+			}
+		},
+		"electricityProductionRenewableSources": {
+			"unit": "%",
+			"year": 2016,
+			"value": 10.1,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_electricity_production_from_renewable_sources"
+			}
+		},
+		"nuclearPowerPlantsOperation": {
+			"value": 4,
+			"source": {
+				"domain": "iaea.org",
+				"url": "https://pris.iaea.org/PRIS/WorldStatistics/OperationalReactorsByCountry.aspx"
+			}
+		},
+		"nuclearPowerPlantsConstruction": {
+			"value": 0,
+			"source": {
+				"domain": "iaea.org",
+				"url": "https://pris.iaea.org/PRIS/WorldStatistics/UnderConstructionReactorsByCountry.aspx"
+			}
+		}
+	},
+	"social": {
+		"lifeExpectancy": {
+			"female": 79.1,
+			"male": 72.3,
+			"year": 2015,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy"
+			}
+		},
+		"unemploymentRate": {
+			"value": 3.6,
+			"source": {
+				"domain": "tradingeconomics.com",
+				"url": "https://tradingeconomics.com/country-list/unemployment-rate"
+			}
+		},
+		"growthRate": {
+			"value": -0.21,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_population_growth_rate"
+			}
+		},
+		"sexRatio": {
+			"value": 1.06,
+			"percentageMale": 47.6,
+			"percentageFemale": 52.4,
+			"year": 2017,
+			"source": {
+				"domain": "countryeconomy.com",
+				"url": "https://countryeconomy.com/demography/population/hungary"
+			}
+		},
+		"infantMortality": {
+			"value": 5.2,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate"
+			}
+		},
+		"medianAge": {
+			"male": 40.4,
+			"female": 44.3,
+			"total": 42.3,
+			"year": 2017,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_median_age"
+			}
+		},
+		"fertilityRate": {
+			"value": 1.397,
+			"source": {
+				"domain": "worldpopulationreview.com",
+				"url": "http://worldpopulationreview.com/countries/total-fertility-rate"
+			}
+		},
+		"billionaires": {
+			"value": null,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_the_number_of_US_dollar_billionaires"
+			}
+		},
+		"prisonPopulationTotal": {
+			"value": 16947,
+			"percentage": 0.17,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_incarceration_rate"
+			}
+		},
+		"suffrage": {
+			"value": "18 years of age, 16 if married and marriage is registered in Hungary",
+			"source": {
+				"domain": "cia.gov",
+				"url": "https://www.cia.gov/library/publications/the-world-factbook/fields/311.html"
+			}
+		}
+	},
+	"food": {
+		"alcoholConsumption": {
+			"beer": 4.82,
+			"wine": 3.91,
+			"spirits": 4.56,
+			"others": 0,
+			"total": 13.3,
+			"unit": "litres per capita per year",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_alcohol_consumption"
+			}
+		},
+		"mcDonaldsRestaurants": {
+			"value": 88,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "http://en.wikipedia.org/wiki/List_of_countries_with_McDonald's_restaurants"
+			}
+		}
+	},
+	"technology": {
+		"internetUsers": {
+			"value": 7730451,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users"
+			}
+		},
+		"internetRank": {
+			"value": 55,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users"
+			}
+		},
+		"internetCountryCode": "hu",
+		"browsers": {
+			"ie": 0,
+			"edge": 2.19,
+			"chrome": 67.97,
+			"safari": 9.71,
+			"firefox": 11.21,
+			"others": 8.92,
+			"source": {
+				"domain": "statcounter.com",
+				"url": "http://gs.statcounter.com/browser-market-share/all/hungary/#monthly-201801-201901"
+			}
+		},
+		"averageDownload": {
+			"unit": "Mbps",
+			"value": 116.09,
+			"source": {
+				"domain": "speedtest.net",
+				"url": "https://www.speedtest.net/global-index/hungary"
+			}
+		},
+		"averageUpload": {
+			"unit": "Mbps",
+			"value": 49.21,
+			"source": {
+				"domain": "speedtest.net",
+				"url": "https://www.speedtest.net/global-index/hungary"
+			}
+		},
+		"mobileSubscribers": {
+			"value": 11561890,
+			"percentage": 117,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use"
+			}
+		},
+		"socialMediaUsers": {
+			"facebook": 5867000,
+			"instagram": 2095000,
+			"messenger": 4358000,
+			"source": {
+				"domain": "napoleoncat.com",
+				"url": "https://napoleoncat.com/stats/social-media-users-in-Hungary/2019/01"
+			}
+		}
+	}
+}
