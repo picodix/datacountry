@@ -48,6 +48,7 @@
 * 🇮🇹 [Italy](./datasets/it.json)
 * 🇰🇿 [Kazakhstan](./datasets/kz.json)
 * 🇱🇻 [Latvia](./datasets/lv.json)
+* 🇱🇹 [Lithuania](./datasets/lt.json)
 
 # **Table of Contents**
 * [General](#general)
