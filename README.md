@@ -38,6 +38,7 @@
 * 🇩🇰 [Denmark](./datasets/dk.json)
 * 🇪🇪 [Estonia](./datasets/ee.json)
 * 🇫🇮 [Finland](./datasets/fi.json)
+* 🇫🇷 [France](./datasets/fr.json)
 
 # **Table of Contents**
 * [General](#general)
