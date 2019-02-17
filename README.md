@@ -49,6 +49,7 @@
 * 🇰🇿 [Kazakhstan](./datasets/kz.json)
 * 🇱🇻 [Latvia](./datasets/lv.json)
 * 🇱🇹 [Lithuania](./datasets/lt.json)
+* 🇱🇺 [Luxembourg](./datasets/lu.json)
 
 # **Table of Contents**
 * [General](#general)
