@@ -43,6 +43,7 @@
 * 🇩🇪 [Germany](./datasets/de.json)
 * 🇬🇷 [Greece](./datasets/gr.json)
 * 🇭🇺 [Hungary](./datasets/hu.json)
+* 🇮🇸 [Iceland](./datasets/is.json)
 
 # **Table of Contents**
 * [General](#general)
