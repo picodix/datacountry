@@ -40,6 +40,7 @@
 * 🇫🇮 [Finland](./datasets/fi.json)
 * 🇫🇷 [France](./datasets/fr.json)
 * 🇬🇪 [Georgia](./datasets/ge.json)
+* 🇩🇪 [Germany](./datasets/de.json)
 
 # **Table of Contents**
 * [General](#general)
