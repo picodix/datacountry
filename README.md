@@ -50,6 +50,7 @@
 * 🇱🇻 [Latvia](./datasets/lv.json)
 * 🇱🇹 [Lithuania](./datasets/lt.json)
 * 🇱🇺 [Luxembourg](./datasets/lu.json)
+* 🇲🇰 [Macedonia](./datasets/mk.json)
 
 # **Table of Contents**
 * [General](#general)
