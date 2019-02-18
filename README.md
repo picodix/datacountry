@@ -53,6 +53,7 @@
 * 🇲🇰 [Macedonia](./datasets/mk.json)
 * 🇲🇩 [Moldova](./datasets/md.json)
 * 🇳🇱 [Netherlands](./datasets/nl.json)
+* 🇳🇴 [Norway](./datasets/no.json)
 
 # **Table of Contents**
 * [General](#general)
