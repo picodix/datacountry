@@ -57,6 +57,7 @@
 * 🇵🇱 [Poland](./datasets/pl.json)
 * 🇵🇹 [Portugal](./datasets/pt.json)
 * 🇷🇴 [Romania](./datasets/ro.json)
+* 🇷🇺 [Russia](./datasets/ru.json)
 
 # **Table of Contents**
 * [General](#general)
