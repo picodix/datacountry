@@ -19,9 +19,9 @@
 			}
 		],
 		"currency": {
-			"code": "GELGBP",
-			"symbol": "GELUK£",
-			"label": "Georgian LariUnited Kingdom Pound Sterling",
+			"code": "GEL",
+			"symbol": "GEL",
+			"label": "Georgian Lari",
 			"source": {
 				"domain": "kestrel.ws",
 				"url": "http://www.kestrel.ws/currencies.html"
