@@ -64,6 +64,7 @@
 * 🇪🇸 [Spain](./datasets/es.json)
 * 🇸🇪 [Sweden](./datasets/se.json)
 * 🇨🇭 [Switzerland](./datasets/ch.json)
+* 🇹🇷 [Turkey](./datasets/tr.json)
 
 # **Table of Contents**
 * [General](#general)
