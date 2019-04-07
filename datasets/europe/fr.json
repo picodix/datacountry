@@ -49,7 +49,7 @@
 		"forestArea": {
 			"year": 2015,
 			"value": 169890,
-			"percentage": 31,
+			"percentage": 30.9,
 			"unit": "sq. m",
 			"source": {
 				"domain": "indexmundi.com",
@@ -162,7 +162,7 @@
 		},
 		"carbonDioxideEmissions": {
 			"unit": "kT",
-			"value": 327787,
+			"value": 338193,
 			"source": {
 				"domain": "wikipedia.org",
 				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions"
@@ -170,10 +170,10 @@
 		},
 		"percentOfWorldEmissions": {
 			"unit": "%",
-			"value": 0.91,
+			"value": 0.97,
 			"source": {
 				"domain": "wikipedia.org",
-				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions"
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_greenhouse_gas_emissions"
 			}
 		},
 		"electricityProductionRenewableSources": {
@@ -266,11 +266,11 @@
 			}
 		},
 		"prisonPopulationTotal": {
-			"value": 70710,
-			"percentage": 0.11,
+			"value": 70059,
+			"percentage": 0.1,
 			"source": {
-				"domain": "wikipedia.org",
-				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_incarceration_rate"
+				"domain": "prisonstudies.org",
+				"url": "http://www.prisonstudies.org/highest-to-lowest/prison-population-total?field_region_taxonomy_tid=All"
 			}
 		},
 		"suffrage": {

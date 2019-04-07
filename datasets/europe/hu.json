@@ -148,7 +148,7 @@
 		},
 		"carbonDioxideEmissions": {
 			"unit": "kT",
-			"value": "-",
+			"value": 50856,
 			"source": {
 				"domain": "wikipedia.org",
 				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions"
@@ -156,10 +156,10 @@
 		},
 		"percentOfWorldEmissions": {
 			"unit": "%",
-			"value": "-",
+			"value": 0.13,
 			"source": {
 				"domain": "wikipedia.org",
-				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions"
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_greenhouse_gas_emissions"
 			}
 		},
 		"electricityProductionRenewableSources": {
