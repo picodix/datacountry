@@ -24,6 +24,11 @@
 
 # **Available countries**
 
+Northern America
+--
+* 🇨🇦 [Canada](./datasets/northern-america/ca.json)
+
+
 Europe
 --
 * 🇦🇱 [Albania](./datasets/europe/al.json)
