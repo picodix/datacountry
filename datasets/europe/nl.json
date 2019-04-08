@@ -150,8 +150,8 @@
 			}
 		},
 		"carbonDioxideEmissions": {
-			"unit": "kT",
-			"value": 174770,
+			"unit": "Mt",
+			"value": 174.77,
 			"source": {
 				"domain": "wikipedia.org",
 				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions"
