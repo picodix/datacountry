@@ -111,7 +111,7 @@ Environment
 
 * **Endangered species** (number of endangered species by type - mammals, birds, reptiles, amphibians, fishes, molluscs & inverts)
 * **Plant threatened** (number of threatened plants)
-* **Carbon dioxide emissions** (total carbon dioxide emission in kT)
+* **Carbon dioxide emissions** (total carbon dioxide emission in Mt)
 * **Percent of world emissions** (world emission percentage of carbon dioxide)
 * **Electricity production renewable sources** (percentage of electricity produced via natural source(s))
 * **Nuclear power plants operation** (total number of nuclear power plant(s) in the country)
