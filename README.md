@@ -27,6 +27,7 @@
 Oceania
 --
 * 🇻🇺 [Vanuatu](./datasets/oceania/vu.json)
+* 🇸🇧 [Solomon Islands](./datasets/oceania/sb.json)
 
 
 Northern America
