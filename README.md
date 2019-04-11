@@ -24,6 +24,11 @@
 
 # **Available countries**
 
+Oceania
+--
+* 🇻🇺 [Vanuatu](./datasets/oceania/vu.json)
+
+
 Northern America
 --
 * 🇨🇦 [Canada](./datasets/northern-america/ca.json)
