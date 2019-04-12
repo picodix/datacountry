@@ -40,7 +40,7 @@
 		"surfaceArea": {
 			"year": 2017,
 			"value": 92225,
-			"unit": "sq. m",
+			"unit": "sq. km",
 			"source": {
 				"domain": "indexmundi.com",
 				"url": "https://www.indexmundi.com/facts/portugal/indicator/AG.SRF.TOTL.K2"
@@ -50,7 +50,7 @@
 			"year": 2015,
 			"value": 31820,
 			"percentage": 34.5,
-			"unit": "sq. m",
+			"unit": "sq. km",
 			"source": {
 				"domain": "indexmundi.com",
 				"url": "https://www.indexmundi.com/facts/portugal/indicator/AG.LND.FRST.K2"
@@ -60,7 +60,7 @@
 			"year": 2015,
 			"value": 37000,
 			"percentage": 40,
-			"unit": "sq. m",
+			"unit": "sq. km",
 			"source": {
 				"domain": "indexmundi.com",
 				"url": "https://www.indexmundi.com/facts/portugal/agricultural-land#AG.LND.AGRI.K2"
@@ -70,7 +70,7 @@
 			"year": 2013,
 			"value": 620,
 			"percentage": 1,
-			"unit": "sq. m",
+			"unit": "sq. km",
 			"source": {
 				"domain": "nationmaster.com",
 				"url": "https://www.nationmaster.com/country-info/stats/Geography/Area/Water"
