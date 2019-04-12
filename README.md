@@ -31,6 +31,7 @@ Oceania
 * 🇵🇬 [Papua New Guinea](./datasets/oceania/pg.json)
 * 🇵🇬 [New Zealand](./datasets/oceania/nz.json)
 * 🇫🇯 [Fiji](./datasets/oceania/fj.json)
+* 🇦🇺 [Australia](./datasets/oceania/au.json)
 
 
 Northern America
