@@ -42,6 +42,7 @@ Northern America
 Central America
 --
 * 🇲🇽 [Mexico](./datasets/central-america/mx.json)
+* 🇭🇳 [Honduras](./datasets/central-america/hn.json)
 
 Europe
 --
