@@ -39,6 +39,9 @@ Northern America
 * 🇨🇦 [Canada](./datasets/northern-america/ca.json)
 * 🇺🇸 [United States](./datasets/northern-america/us.json)
 
+Central America
+--
+* 🇲🇽 [Mexico](./datasets/central-america/mx.json)
 
 Europe
 --
