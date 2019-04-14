@@ -48,6 +48,7 @@ Central America
 * 🇨🇷 [Costa Rica](./datasets/central-america/cr.json)
 * 🇧🇿 [Belize](./datasets/central-america/bz.json)
 * 🇵🇦 [Panama](./datasets/central-america/pa.json)
+* 🇳🇮 [Nicaragua](./datasets/central-america/ni.json)
 
 Europe
 --
