@@ -54,6 +54,7 @@ South America
 --
 * 🇻🇪 [Venezuela](./datasets/south-america/ve.json)
 * 🇧🇴 [Bolivia](./datasets/south-america/bo.json)
+* 🇺🇾 [Uruguay](./datasets/south-america/uy.json)
 
 Europe
 --
