@@ -29,7 +29,7 @@ Oceania
 * 🇻🇺 [Vanuatu](./datasets/oceania/vu.json)
 * 🇸🇧 [Solomon Islands](./datasets/oceania/sb.json)
 * 🇵🇬 [Papua New Guinea](./datasets/oceania/pg.json)
-* 🇵🇬 [New Zealand](./datasets/oceania/nz.json)
+* 🇳🇿 [New Zealand](./datasets/oceania/nz.json)
 * 🇫🇯 [Fiji](./datasets/oceania/fj.json)
 * 🇦🇺 [Australia](./datasets/oceania/au.json)
 
