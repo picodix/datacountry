@@ -58,6 +58,7 @@ South America
 * 🇸🇷 [Suriname](./datasets/south-america/sr.json)
 * 🇵🇪 [Peru](./datasets/south-america/pe.json)
 * 🇵🇾 [Paraguay](./datasets/south-america/py.json)
+* 🇬🇾 [Guyana](./datasets/south-america/gy.json)
 
 Europe
 --
