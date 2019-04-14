@@ -1,0 +1,352 @@
+{
+	"name": "El Salvador",
+	"iso2l": "sv",
+	"iso3l": "slv",
+	"general": {
+		"name": "El Salvador",
+		"population": [
+			{
+				"male": 2995117,
+				"female": 3382736,
+				"total": 6377853,
+				"year": 2017,
+				"percentageMale": 47,
+				"percentageFemale": 53,
+				"source": {
+					"domain": "countryeconomy.com",
+					"url": "https://countryeconomy.com/demography/population/el-salvador"
+				}
+			}
+		],
+		"currency": {
+			"code": "USD",
+			"symbol": "US$",
+			"label": "United States Dollar",
+			"source": {
+				"domain": "kestrel.ws",
+				"url": "http://www.kestrel.ws/currencies.html"
+			}
+		},
+		"capital": {
+			"name": "San Salvador",
+			"population": 521366,
+			"source": {
+				"domain": "worldatlas.com",
+				"url": "https://www.worldatlas.com/capcitys.htm"
+			}
+		}
+	},
+	"geography": {
+		"surfaceArea": {
+			"year": 2017,
+			"value": 21040,
+			"unit": "sq. km",
+			"source": {
+				"domain": "indexmundi.com",
+				"url": "https://www.indexmundi.com/facts/el-salvador/indicator/AG.SRF.TOTL.K2"
+			}
+		},
+		"forestArea": {
+			"year": 2015,
+			"value": 2650,
+			"percentage": 12.6,
+			"unit": "sq. km",
+			"source": {
+				"domain": "indexmundi.com",
+				"url": "https://www.indexmundi.com/facts/el-salvador/indicator/AG.LND.FRST.K2"
+			}
+		},
+		"agriculturalArea": {
+			"year": 2015,
+			"value": 16020,
+			"percentage": 76,
+			"unit": "sq. km",
+			"source": {
+				"domain": "indexmundi.com",
+				"url": "https://www.indexmundi.com/facts/el-salvador/agricultural-land#AG.LND.AGRI.K2"
+			}
+		},
+		"waterArea": {
+			"year": 2013,
+			"value": 320,
+			"percentage": 2,
+			"unit": "sq. km",
+			"source": {
+				"domain": "nationmaster.com",
+				"url": "https://www.nationmaster.com/country-info/stats/Geography/Area/Water"
+			}
+		},
+		"largestCities": [
+			"San Salvador",
+			"Soyapango",
+			"Santa Ana"
+		],
+		"naturalResources": [
+			"hydropower",
+			"geothermal power",
+			"petroleum",
+			"arable land"
+		],
+		"coastline": {
+			"unit": "km",
+			"value": 307,
+			"source": {
+				"domain": "nationmaster.com",
+				"url": "https://www.nationmaster.com/country-info/stats/Geography/Coastline"
+			}
+		},
+		"elevationsHighestPoint": {
+			"name": "Cerro El Pital",
+			"height": 2730,
+			"unit": "m",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://simple.wikipedia.org/wiki/List_of_elevation_extremes_by_country"
+			}
+		},
+		"elevationsLowestPoint": {
+			"name": "North Pacific Ocean",
+			"height": 0,
+			"unit": "m",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://simple.wikipedia.org/wiki/List_of_elevation_extremes_by_country"
+			}
+		},
+		"highestCity": {
+			"name": "Apaneca",
+			"height": 1683,
+			"unit": "m",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_highest_towns_by_country"
+			}
+		}
+	},
+	"environment": {
+		"endangeredSpecies": {
+			"mammals": 6,
+			"birds": 6,
+			"reptiles": 8,
+			"amphibians": 10,
+			"fishes": 14,
+			"molluscs": 0,
+			"inverts": 7,
+			"total": 80,
+			"source": {
+				"domain": "theguardian.com",
+				"url": "https://www.theguardian.com/news/datablog/2013/nov/26/iucn-red-list-threatened-species-by-country-statistics"
+			}
+		},
+		"plantsThreatened": {
+			"value": 29,
+			"source": {
+				"domain": "theguardian.com",
+				"url": "https://www.theguardian.com/news/datablog/2013/nov/26/iucn-red-list-threatened-species-by-country-statistics"
+			}
+		},
+		"carbonDioxideEmissions": {
+			"unit": "Mt",
+			"value": 7.857,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions"
+			}
+		},
+		"percentOfWorldEmissions": {
+			"unit": "%",
+			"value": 0.03,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_greenhouse_gas_emissions"
+			}
+		},
+		"electricityProductionRenewableSources": {
+			"unit": "%",
+			"year": 2016,
+			"value": 60.7,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_electricity_production_from_renewable_sources"
+			}
+		},
+		"nuclearPowerPlantsOperation": {
+			"value": 0,
+			"source": {
+				"domain": "iaea.org",
+				"url": "https://pris.iaea.org/PRIS/WorldStatistics/OperationalReactorsByCountry.aspx"
+			}
+		},
+		"nuclearPowerPlantsConstruction": {
+			"value": 0,
+			"source": {
+				"domain": "iaea.org",
+				"url": "https://pris.iaea.org/PRIS/WorldStatistics/UnderConstructionReactorsByCountry.aspx"
+			}
+		}
+	},
+	"social": {
+		"lifeExpectancy": {
+			"female": 77.9,
+			"male": 68.8,
+			"year": 2015,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy"
+			}
+		},
+		"unemploymentRate": {
+			"value": 7,
+			"source": {
+				"domain": "tradingeconomics.com",
+				"url": "https://tradingeconomics.com/country-list/unemployment-rate"
+			}
+		},
+		"growthRate": {
+			"value": 0.27,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_population_growth_rate"
+			}
+		},
+		"sexRatio": {
+			"value": 1.05,
+			"percentageMale": 47,
+			"percentageFemale": 53,
+			"year": 2017,
+			"source": {
+				"domain": "countryeconomy.com",
+				"url": "https://countryeconomy.com/demography/population/el-salvador"
+			}
+		},
+		"infantMortality": {
+			"value": 17.3,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate"
+			}
+		},
+		"medianAge": {
+			"male": 25.6,
+			"female": 28.6,
+			"total": 27.1,
+			"year": 2017,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_median_age"
+			}
+		},
+		"fertilityRate": {
+			"value": 2.053,
+			"source": {
+				"domain": "worldpopulationreview.com",
+				"url": "http://worldpopulationreview.com/countries/total-fertility-rate"
+			}
+		},
+		"billionaires": {
+			"value": 0,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_the_number_of_US_dollar_billionaires"
+			}
+		},
+		"prisonPopulationTotal": {
+			"value": 39807,
+			"percentage": 0.6,
+			"source": {
+				"domain": "prisonstudies.org",
+				"url": "http://www.prisonstudies.org/highest-to-lowest/prison-population-total?field_region_taxonomy_tid=All"
+			}
+		},
+		"suffrage": {
+			"value": "18 years of age",
+			"source": {
+				"domain": "cia.gov",
+				"url": "https://www.cia.gov/library/publications/the-world-factbook/fields/311.html"
+			}
+		}
+	},
+	"food": {
+		"alcoholConsumption": {
+			"beer": 1.33,
+			"wine": 0.05,
+			"spirits": 1.81,
+			"others": 0,
+			"total": 3.2,
+			"unit": "litres per capita per year",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_alcohol_consumption"
+			}
+		},
+		"mcDonaldsRestaurants": {
+			"value": 20,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "http://en.wikipedia.org/wiki/List_of_countries_with_McDonald's_restaurants"
+			}
+		}
+	},
+	"technology": {
+		"internetUsers": {
+			"value": 1993079,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users"
+			}
+		},
+		"internetRank": {
+			"value": 119,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users"
+			}
+		},
+		"internetCountryCode": "sv",
+		"browsers": {
+			"ie": 0,
+			"edge": 1.09,
+			"chrome": 79.84,
+			"safari": 7.83,
+			"firefox": 5.18,
+			"others": 6.06,
+			"source": {
+				"domain": "statcounter.com",
+				"url": "http://gs.statcounter.com/browser-market-share/all/el-salvador/#monthly-201801-201901"
+			}
+		},
+		"averageDownload": {
+			"unit": "Mbps",
+			"value": 9.76,
+			"source": {
+				"domain": "speedtest.net",
+				"url": "https://www.speedtest.net/global-index/el-salvador"
+			}
+		},
+		"averageUpload": {
+			"unit": "Mbps",
+			"value": 3.86,
+			"source": {
+				"domain": "speedtest.net",
+				"url": "https://www.speedtest.net/global-index/el-salvador"
+			}
+		},
+		"mobileSubscribers": {
+			"value": "-",
+			"percentage": "-",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use"
+			}
+		},
+		"socialMediaUsers": {
+			"facebook": 3758000,
+			"instagram": 1034200,
+			"messenger": 2259000,
+			"source": {
+				"domain": "napoleoncat.com",
+				"url": "https://napoleoncat.com/stats/social-media-users-in-El_Salvador/2019/01"
+			}
+		}
+	}
+}
