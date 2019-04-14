@@ -27,14 +27,17 @@
 				"url": "http://www.kestrel.ws/currencies.html"
 			}
 		},
-		"capital": {
-			"name": "Paris",
-			"population": 2268265,
-			"source": {
-				"domain": "worldatlas.com",
-				"url": "https://www.worldatlas.com/capcitys.htm"
+		"capital": [
+			{
+				"name": "Paris",
+				"type": "official",
+				"population": 2268265,
+				"source": {
+					"domain": "worldatlas.com",
+					"url": "https://www.worldatlas.com/capcitys.htm"
+				}
 			}
-		}
+		]
 	},
 	"geography": {
 		"surfaceArea": {

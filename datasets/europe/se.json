@@ -27,14 +27,17 @@
 				"url": "http://www.kestrel.ws/currencies.html"
 			}
 		},
-		"capital": {
-			"name": "Stockholm",
-			"population": 770284,
-			"source": {
-				"domain": "worldatlas.com",
-				"url": "https://www.worldatlas.com/capcitys.htm"
+		"capital": [
+			{
+				"name": "Stockholm",
+				"type": "official",
+				"population": 770284,
+				"source": {
+					"domain": "worldatlas.com",
+					"url": "https://www.worldatlas.com/capcitys.htm"
+				}
 			}
-		}
+		]
 	},
 	"geography": {
 		"surfaceArea": {

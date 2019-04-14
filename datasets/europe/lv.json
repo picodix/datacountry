@@ -27,14 +27,17 @@
 				"url": "http://www.kestrel.ws/currencies.html"
 			}
 		},
-		"capital": {
-			"name": "Riga",
-			"population": 713016,
-			"source": {
-				"domain": "worldatlas.com",
-				"url": "https://www.worldatlas.com/capcitys.htm"
+		"capital": [
+			{
+				"name": "Riga",
+				"type": "official",
+				"population": 713016,
+				"source": {
+					"domain": "worldatlas.com",
+					"url": "https://www.worldatlas.com/capcitys.htm"
+				}
 			}
-		}
+		]
 	},
 	"geography": {
 		"surfaceArea": {

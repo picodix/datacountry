@@ -27,14 +27,17 @@
 				"url": "http://www.kestrel.ws/currencies.html"
 			}
 		},
-		"capital": {
-			"name": "Baku",
-			"population": 1879251,
-			"source": {
-				"domain": "worldatlas.com",
-				"url": "https://www.worldatlas.com/capcitys.htm"
+		"capital": [
+			{
+				"name": "Baku",
+				"type": "official",
+				"population": 1879251,
+				"source": {
+					"domain": "worldatlas.com",
+					"url": "https://www.worldatlas.com/capcitys.htm"
+				}
 			}
-		}
+		]
 	},
 	"geography": {
 		"surfaceArea": {

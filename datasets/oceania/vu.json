@@ -27,14 +27,17 @@
 				"url": "http://www.kestrel.ws/currencies.html"
 			}
 		},
-		"capital": {
-			"name": "Port Vila",
-			"population": 38000,
-			"source": {
-				"domain": "worldatlas.com",
-				"url": "https://www.worldatlas.com/capcitys.htm"
+		"capital": [
+			{
+				"name": "Port Vila",
+				"type": "official",
+				"population": 38000,
+				"source": {
+					"domain": "worldatlas.com",
+					"url": "https://www.worldatlas.com/capcitys.htm"
+				}
 			}
-		}
+		]
 	},
 	"geography": {
 		"surfaceArea": {

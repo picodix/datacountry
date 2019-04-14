@@ -117,7 +117,7 @@ General
 * **Name**
 * **Population** (total, male, female and percentages)
 * **Currency** (code, symbol & label)
-* **Capital** (name & population)
+* **Capital** (name, population & type - some countries can have multiple capitals like judicial, legislative...)
 
 <br>
 
