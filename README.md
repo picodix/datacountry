@@ -45,6 +45,7 @@ Central America
 * 🇭🇳 [Honduras](./datasets/central-america/hn.json)
 * 🇬🇹 [Guatemala](./datasets/central-america/gt.json)
 * 🇸🇻 [El Salvador](./datasets/central-america/sv.json)
+* 🇨🇷 [Costa Rica](./datasets/central-america/cr.json)
 
 Europe
 --
