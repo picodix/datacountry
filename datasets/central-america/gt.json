@@ -1,0 +1,354 @@
+{
+	"name": "Guatemala",
+	"iso2l": "gt",
+	"iso3l": "gtm",
+	"general": {
+		"name": "Guatemala",
+		"population": [
+			{
+				"male": 8324325,
+				"female": 8589178,
+				"total": 16913503,
+				"year": 2017,
+				"percentageMale": 49.2,
+				"percentageFemale": 50.8,
+				"source": {
+					"domain": "countryeconomy.com",
+					"url": "https://countryeconomy.com/demography/population/guatemala"
+				}
+			}
+		],
+		"currency": {
+			"code": "GTQ",
+			"symbol": "Q",
+			"label": "Guatemalan Quetzal",
+			"source": {
+				"domain": "kestrel.ws",
+				"url": "http://www.kestrel.ws/currencies.html"
+			}
+		},
+		"capital": {
+			"name": "Guatemala City",
+			"population": 1103865,
+			"source": {
+				"domain": "worldatlas.com",
+				"url": "https://www.worldatlas.com/capcitys.htm"
+			}
+		}
+	},
+	"geography": {
+		"surfaceArea": {
+			"year": 2017,
+			"value": 108890,
+			"unit": "sq. km",
+			"source": {
+				"domain": "indexmundi.com",
+				"url": "https://www.indexmundi.com/facts/guatemala/indicator/AG.SRF.TOTL.K2"
+			}
+		},
+		"forestArea": {
+			"year": 2015,
+			"value": 35400,
+			"percentage": 32.5,
+			"unit": "sq. km",
+			"source": {
+				"domain": "indexmundi.com",
+				"url": "https://www.indexmundi.com/facts/guatemala/indicator/AG.LND.FRST.K2"
+			}
+		},
+		"agriculturalArea": {
+			"year": 2015,
+			"value": 37938,
+			"percentage": 35,
+			"unit": "sq. km",
+			"source": {
+				"domain": "indexmundi.com",
+				"url": "https://www.indexmundi.com/facts/guatemala/agricultural-land#AG.LND.AGRI.K2"
+			}
+		},
+		"waterArea": {
+			"year": 2013,
+			"value": 1730,
+			"percentage": 2,
+			"unit": "sq. km",
+			"source": {
+				"domain": "nationmaster.com",
+				"url": "https://www.nationmaster.com/country-info/stats/Geography/Area/Water"
+			}
+		},
+		"largestCities": [
+			"Guatemala City",
+			"Mixco",
+			"Villa Nueva"
+		],
+		"naturalResources": [
+			"petroleum",
+			"nickel",
+			"rare woods",
+			"fish",
+			"chicle",
+			"hydropower"
+		],
+		"coastline": {
+			"unit": "km",
+			"value": 400,
+			"source": {
+				"domain": "nationmaster.com",
+				"url": "https://www.nationmaster.com/country-info/stats/Geography/Coastline"
+			}
+		},
+		"elevationsHighestPoint": {
+			"name": "Volcán Tajumulco",
+			"height": 4220,
+			"unit": "m",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://simple.wikipedia.org/wiki/List_of_elevation_extremes_by_country"
+			}
+		},
+		"elevationsLowestPoint": {
+			"name": "North Pacific Ocean",
+			"height": 0,
+			"unit": "m",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://simple.wikipedia.org/wiki/List_of_elevation_extremes_by_country"
+			}
+		},
+		"highestCity": {
+			"name": "Ixchiguán",
+			"height": 3185,
+			"unit": "m",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_highest_towns_by_country"
+			}
+		}
+	},
+	"environment": {
+		"endangeredSpecies": {
+			"mammals": 17,
+			"birds": 14,
+			"reptiles": 22,
+			"amphibians": 83,
+			"fishes": 26,
+			"molluscs": 2,
+			"inverts": 7,
+			"total": 264,
+			"source": {
+				"domain": "theguardian.com",
+				"url": "https://www.theguardian.com/news/datablog/2013/nov/26/iucn-red-list-threatened-species-by-country-statistics"
+			}
+		},
+		"plantsThreatened": {
+			"value": 93,
+			"source": {
+				"domain": "theguardian.com",
+				"url": "https://www.theguardian.com/news/datablog/2013/nov/26/iucn-red-list-threatened-species-by-country-statistics"
+			}
+		},
+		"carbonDioxideEmissions": {
+			"unit": "Mt",
+			"value": 17.76,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions"
+			}
+		},
+		"percentOfWorldEmissions": {
+			"unit": "%",
+			"value": 0.06,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_greenhouse_gas_emissions"
+			}
+		},
+		"electricityProductionRenewableSources": {
+			"unit": "%",
+			"year": 2016,
+			"value": 51.7,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_electricity_production_from_renewable_sources"
+			}
+		},
+		"nuclearPowerPlantsOperation": {
+			"value": 0,
+			"source": {
+				"domain": "iaea.org",
+				"url": "https://pris.iaea.org/PRIS/WorldStatistics/OperationalReactorsByCountry.aspx"
+			}
+		},
+		"nuclearPowerPlantsConstruction": {
+			"value": 0,
+			"source": {
+				"domain": "iaea.org",
+				"url": "https://pris.iaea.org/PRIS/WorldStatistics/UnderConstructionReactorsByCountry.aspx"
+			}
+		}
+	},
+	"social": {
+		"lifeExpectancy": {
+			"female": 75.2,
+			"male": 68.5,
+			"year": 2015,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy"
+			}
+		},
+		"unemploymentRate": {
+			"value": 2.8,
+			"source": {
+				"domain": "tradingeconomics.com",
+				"url": "https://tradingeconomics.com/country-list/unemployment-rate"
+			}
+		},
+		"growthRate": {
+			"value": 1.86,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_population_growth_rate"
+			}
+		},
+		"sexRatio": {
+			"value": 1.04,
+			"percentageMale": 49.2,
+			"percentageFemale": 50.8,
+			"year": 2017,
+			"source": {
+				"domain": "countryeconomy.com",
+				"url": "https://countryeconomy.com/demography/population/guatemala"
+			}
+		},
+		"infantMortality": {
+			"value": 22,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate"
+			}
+		},
+		"medianAge": {
+			"male": 21.4,
+			"female": 22.8,
+			"total": 22.1,
+			"year": 2017,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_median_age"
+			}
+		},
+		"fertilityRate": {
+			"value": 2.899,
+			"source": {
+				"domain": "worldpopulationreview.com",
+				"url": "http://worldpopulationreview.com/countries/total-fertility-rate"
+			}
+		},
+		"billionaires": {
+			"value": 0,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_the_number_of_US_dollar_billionaires"
+			}
+		},
+		"prisonPopulationTotal": {
+			"value": 24303,
+			"percentage": 0.14,
+			"source": {
+				"domain": "prisonstudies.org",
+				"url": "http://www.prisonstudies.org/highest-to-lowest/prison-population-total?field_region_taxonomy_tid=All"
+			}
+		},
+		"suffrage": {
+			"value": "18 years of age",
+			"source": {
+				"domain": "cia.gov",
+				"url": "https://www.cia.gov/library/publications/the-world-factbook/fields/311.html"
+			}
+		}
+	},
+	"food": {
+		"alcoholConsumption": {
+			"beer": 1.59,
+			"wine": 0.06,
+			"spirits": 2.13,
+			"others": 0,
+			"total": 3.8,
+			"unit": "litres per capita per year",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_alcohol_consumption"
+			}
+		},
+		"mcDonaldsRestaurants": {
+			"value": 94,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "http://en.wikipedia.org/wiki/List_of_countries_with_McDonald's_restaurants"
+			}
+		}
+	},
+	"technology": {
+		"internetUsers": {
+			"value": 6883796,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users"
+			}
+		},
+		"internetRank": {
+			"value": 68,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users"
+			}
+		},
+		"internetCountryCode": "gt",
+		"browsers": {
+			"ie": 2.33,
+			"edge": 0,
+			"chrome": 75.48,
+			"safari": 10.98,
+			"firefox": 4.33,
+			"others": 6.88,
+			"source": {
+				"domain": "statcounter.com",
+				"url": "http://gs.statcounter.com/browser-market-share/all/guatemala/#monthly-201801-201901"
+			}
+		},
+		"averageDownload": {
+			"unit": "Mbps",
+			"value": 9.25,
+			"source": {
+				"domain": "speedtest.net",
+				"url": "https://www.speedtest.net/global-index/guatemala"
+			}
+		},
+		"averageUpload": {
+			"unit": "Mbps",
+			"value": 3.79,
+			"source": {
+				"domain": "speedtest.net",
+				"url": "https://www.speedtest.net/global-index/guatemala"
+			}
+		},
+		"mobileSubscribers": {
+			"value": 17571895,
+			"percentage": 119,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use"
+			}
+		},
+		"socialMediaUsers": {
+			"facebook": 7091000,
+			"instagram": 1589100,
+			"messenger": 4596000,
+			"source": {
+				"domain": "napoleoncat.com",
+				"url": "https://napoleoncat.com/stats/social-media-users-in-Guatemala/2019/01"
+			}
+		}
+	}
+}
