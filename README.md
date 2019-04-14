@@ -50,6 +50,10 @@ Central America
 * 🇵🇦 [Panama](./datasets/central-america/pa.json)
 * 🇳🇮 [Nicaragua](./datasets/central-america/ni.json)
 
+South America
+--
+* 🇻🇪 [Venezuela](./datasets/south-america/ve.json)
+
 Europe
 --
 * 🇦🇱 [Albania](./datasets/europe/al.json)
