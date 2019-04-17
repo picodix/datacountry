@@ -60,6 +60,7 @@ South America
 * 🇵🇾 [Paraguay](./datasets/south-america/py.json)
 * 🇬🇾 [Guyana](./datasets/south-america/gy.json)
 * 🇪🇨 [Ecuador](./datasets/south-america/ce.json)
+* 🇨🇴 [Colombia](./datasets/south-america/co.json)
 
 Europe
 --
