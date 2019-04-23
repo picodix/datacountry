@@ -30,6 +30,7 @@ Northern Africa
 * 🇸🇩 [Sudan](./datasets/northern-africa/sd.json)
 * 🇲🇦 [Morocco](./datasets/northern-africa/ma.json)
 * 🇱🇾 [Libya](./datasets/northern-africa/ly.json)
+* 🇪🇬 [Egypt](./datasets/northern-africa/eg.json)
 
 Oceania
 --
