@@ -28,6 +28,7 @@ Northern Africa
 --
 * 🇹🇳 [Tunisia](./datasets/northern-africa/tn.json)
 * 🇸🇩 [Sudan](./datasets/northern-africa/sd.json)
+* 🇲🇦 [Morocco](./datasets/northern-africa/ma.json)
 
 Oceania
 --
