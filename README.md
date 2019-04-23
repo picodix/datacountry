@@ -63,6 +63,7 @@ South America
 * 🇨🇴 [Colombia](./datasets/south-america/co.json)
 * 🇨🇱 [Chile](./datasets/south-america/cl.json)
 * 🇧🇷 [Brazil](./datasets/south-america/br.json)
+* 🇦🇷 [Argentina](./datasets/south-america/ar.json)
 
 Europe
 --
