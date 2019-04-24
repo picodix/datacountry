@@ -29,6 +29,7 @@ Southern Africa
 * 🇸🇿 [Swaziland](./datasets/southern-africa/sz.json)
 * 🇿🇦 [South Africa](./datasets/southern-africa/za.json)
 * 🇳🇦 [Namibia](./datasets/southern-africa/na.json)
+* 🇱🇸 [Lesotho](./datasets/southern-africa/ls.json)
 
 Northern Africa
 --
