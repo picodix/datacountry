@@ -35,6 +35,7 @@ Eastern Africa
 * 🇸🇴 [Somalia](./datasets/eastern-africa/so.json)
 * 🇷🇼 [Rwanda](./datasets/eastern-africa/rw.json)
 * 🇲🇿 [Mozambique](./datasets/eastern-africa/mz.json)
+* 🇲🇼 [Malawi](./datasets/eastern-africa/mw.json)
 
 Southern Africa
 --
