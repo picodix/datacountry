@@ -24,6 +24,12 @@
 
 # **Available countries**
 
+
+
+Eastern Africa
+--
+* 🇹🇿 [Tanzania](./datasets/eastern-africa/tz.json)
+
 Southern Africa
 --
 * 🇸🇿 [Swaziland](./datasets/southern-africa/sz.json)
