@@ -40,6 +40,7 @@ Eastern Africa
 * 🇰🇪 [Kenya](./datasets/eastern-africa/ke.json)
 * 🇪🇹 [Ethiopia](./datasets/eastern-africa/et.json)
 * 🇪🇷 [Eritrea](./datasets/eastern-africa/er.json)
+* 🇩🇯 [Djibouti](./datasets/eastern-africa/dj.json)
 
 Southern Africa
 --
