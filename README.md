@@ -29,6 +29,7 @@ Middle Africa
 * 🇨🇬 [Congo](./datasets/middle-africa/cg.json)
 * 🇹🇩 [Chad](./datasets/middle-africa/td.json)
 * 🇨🇫 [Central African Republic](./datasets/middle-africa/cf.json)
+* 🇨🇲 [Cameroon](./datasets/middle-africa/cm.json)
 
 Eastern Africa
 --
