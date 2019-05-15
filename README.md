@@ -32,6 +32,7 @@ Middle Africa
 * 🇨🇲 [Cameroon](./datasets/middle-africa/cm.json)
 * 🇦🇴 [Angola](./datasets/middle-africa/ao.json)
 * 🇬🇦 [Gabon](./datasets/middle-africa/ga.json)
+* 🇬🇶 [Equatorial Guinea](./datasets/middle-africa/gq.json)
 
 Eastern Africa
 --
