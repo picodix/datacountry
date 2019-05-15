@@ -29,6 +29,7 @@ Middle Africa
 * 🇹🇬 [Togo](./datasets/western-africa/tg.json)
 * 🇸🇱 [Sierra Leone](./datasets/western-africa/sl.json)
 * 🇸🇳 [Senegal](./datasets/western-africa/sn.json)
+* 🇳🇬 [Nigeria](./datasets/western-africa/ng.json)
 
 Middle Africa
 --
