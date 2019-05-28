@@ -36,6 +36,7 @@ Middle Africa
 * 🇱🇷 [Liberia](./datasets/western-africa/lr.json)
 * 🇬🇼 [Guinea-Bissau](./datasets/western-africa/gw.json)
 * 🇬🇳 [Guinea](./datasets/western-africa/gn.json)
+* 🇬🇭 [Ghana](./datasets/western-africa/gh.json)
 
 Middle Africa
 --
