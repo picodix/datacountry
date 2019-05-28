@@ -24,7 +24,7 @@
 
 # **Available countries**
 
-Middle Africa
+Western Africa
 --
 * 🇹🇬 [Togo](./datasets/western-africa/tg.json)
 * 🇸🇱 [Sierra Leone](./datasets/western-africa/sl.json)
