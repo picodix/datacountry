@@ -253,7 +253,7 @@
 			}
 		},
 		"billionaires": {
-			"value": null,
+			"value": 3,
 			"source": {
 				"domain": "wikipedia.org",
 				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_the_number_of_US_dollar_billionaires"
