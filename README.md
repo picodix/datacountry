@@ -31,6 +31,7 @@ Middle Africa
 * 🇸🇳 [Senegal](./datasets/western-africa/sn.json)
 * 🇳🇬 [Nigeria](./datasets/western-africa/ng.json)
 * 🇳🇪 [Niger](./datasets/western-africa/ne.json)
+* 🇲🇷 [Mauritania](./datasets/western-africa/mr.json)
 
 Middle Africa
 --
