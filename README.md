@@ -34,6 +34,7 @@ Asia
 * 🇱🇰 [Sri Lanka](./datasets/asia/lk.json)
 * 🇵🇭 [Philippines](./datasets/asia/ph.json)
 * 🇵🇰 [Pakistan](./datasets/asia/pk.json)
+* 🇳🇵 [Nepal](./datasets/asia/np.json)
 
 Western Africa
 --
