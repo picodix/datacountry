@@ -1,0 +1,360 @@
+{
+	"name": "Vietnam",
+	"iso2l": "vn",
+	"iso3l": "vnm",
+	"general": {
+		"name": "Vietnam",
+		"population": [
+			{
+				"male": 47278444,
+				"female": 48262356,
+				"total": 95540800,
+				"year": 2017,
+				"percentageMale": 49.5,
+				"percentageFemale": 50.5,
+				"source": {
+					"domain": "countryeconomy.com",
+					"url": "https://countryeconomy.com/demography/population/vietnam"
+				}
+			}
+		],
+		"currency": {
+			"code": "VND",
+			"symbol": "₫",
+			"label": "Viet Nam Dong",
+			"source": {
+				"domain": "kestrel.ws",
+				"url": "http://www.kestrel.ws/currencies.html"
+			}
+		},
+		"capital": [
+			{
+				"name": "Hanoi",
+				"type": "official",
+				"population": 3398889,
+				"source": {
+					"domain": "worldatlas.com",
+					"url": "https://www.worldatlas.com/capcitys.htm"
+				}
+			}
+		]
+	},
+	"geography": {
+		"surfaceArea": {
+			"year": 2017,
+			"value": 330967,
+			"unit": "sq. km",
+			"source": {
+				"domain": "indexmundi.com",
+				"url": "https://www.indexmundi.com/facts/vietnam/indicator/AG.SRF.TOTL.K2"
+			}
+		},
+		"forestArea": {
+			"year": 2015,
+			"value": 147730,
+			"percentage": 44.6,
+			"unit": "sq. km",
+			"source": {
+				"domain": "indexmundi.com",
+				"url": "https://www.indexmundi.com/facts/vietnam/indicator/AG.LND.FRST.K2"
+			}
+		},
+		"agriculturalArea": {
+			"year": 2015,
+			"value": 117100,
+			"percentage": 35,
+			"unit": "sq. km",
+			"source": {
+				"domain": "indexmundi.com",
+				"url": "https://www.indexmundi.com/facts/vietnam/agricultural-land#AG.LND.AGRI.K2"
+			}
+		},
+		"waterArea": {
+			"year": 2013,
+			"value": 21140,
+			"percentage": 6.39,
+			"unit": "sq. km",
+			"source": {
+				"domain": "nationmaster.com",
+				"url": "https://www.nationmaster.com/country-info/stats/Geography/Area/Water"
+			}
+		},
+		"largestCities": [
+			"Ho Chi Minh City",
+			"Hanoi",
+			"Da Nang"
+		],
+		"naturalResources": [
+			"phosphates",
+			"coal",
+			"manganese",
+			"rare earth elements",
+			"bauxite",
+			"chromate",
+			"offshore oil and gas deposits",
+			"timber",
+			"hydropower"
+		],
+		"coastline": {
+			"unit": "km",
+			"value": 3444,
+			"source": {
+				"domain": "nationmaster.com",
+				"url": "https://www.nationmaster.com/country-info/stats/Geography/Coastline"
+			}
+		},
+		"elevationsHighestPoint": {
+			"name": "Fan Si Pan",
+			"height": 3143,
+			"unit": "m",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://simple.wikipedia.org/wiki/List_of_elevation_extremes_by_country"
+			}
+		},
+		"elevationsLowestPoint": {
+			"name": "South China Sea",
+			"height": 0,
+			"unit": "m",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://simple.wikipedia.org/wiki/List_of_elevation_extremes_by_country"
+			}
+		},
+		"highestCity": {
+			"name": "Sa Pa",
+			"height": 1600,
+			"unit": "m",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_highest_towns_by_country"
+			}
+		}
+	},
+	"environment": {
+		"endangeredSpecies": {
+			"mammals": 54,
+			"birds": 44,
+			"reptiles": 41,
+			"amphibians": 17,
+			"fishes": 73,
+			"molluscs": 17,
+			"inverts": 108,
+			"total": 523,
+			"source": {
+				"domain": "theguardian.com",
+				"url": "https://www.theguardian.com/news/datablog/2013/nov/26/iucn-red-list-threatened-species-by-country-statistics"
+			}
+		},
+		"plantsThreatened": {
+			"value": 169,
+			"source": {
+				"domain": "theguardian.com",
+				"url": "https://www.theguardian.com/news/datablog/2013/nov/26/iucn-red-list-threatened-species-by-country-statistics"
+			}
+		},
+		"carbonDioxideEmissions": {
+			"unit": "Mt",
+			"value": 218.729,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions"
+			}
+		},
+		"percentOfWorldEmissions": {
+			"unit": "%",
+			"value": 0.57,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_greenhouse_gas_emissions"
+			}
+		},
+		"electricityProductionRenewableSources": {
+			"unit": "%",
+			"year": 2016,
+			"value": 38.6,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_electricity_production_from_renewable_sources"
+			}
+		},
+		"nuclearPowerPlantsOperation": {
+			"value": 0,
+			"source": {
+				"domain": "iaea.org",
+				"url": "https://pris.iaea.org/PRIS/WorldStatistics/OperationalReactorsByCountry.aspx"
+			}
+		},
+		"nuclearPowerPlantsConstruction": {
+			"value": 0,
+			"source": {
+				"domain": "iaea.org",
+				"url": "https://pris.iaea.org/PRIS/WorldStatistics/UnderConstructionReactorsByCountry.aspx"
+			}
+		}
+	},
+	"social": {
+		"lifeExpectancy": {
+			"female": 80.7,
+			"male": 71.3,
+			"year": 2015,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy"
+			}
+		},
+		"unemploymentRate": {
+			"value": 2.17,
+			"source": {
+				"domain": "tradingeconomics.com",
+				"url": "https://tradingeconomics.com/country-list/unemployment-rate"
+			}
+		},
+		"growthRate": {
+			"value": 1,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_population_growth_rate"
+			}
+		},
+		"sexRatio": {
+			"value": 1.11,
+			"percentageMale": 49.5,
+			"percentageFemale": 50.5,
+			"year": "2017",
+			"source": {
+				"domain": "countryeconomy.com",
+				"url": "https://countryeconomy.com/demography/population/vietnam"
+			}
+		},
+		"infantMortality": {
+			"value": 17.8,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate"
+			}
+		},
+		"medianAge": {
+			"male": 29.4,
+			"female": 31.7,
+			"total": 30.5,
+			"year": 2017,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_median_age"
+			}
+		},
+		"fertilityRate": {
+			"value": 1.946,
+			"source": {
+				"domain": "worldpopulationreview.com",
+				"url": "http://worldpopulationreview.com/countries/total-fertility-rate"
+			}
+		},
+		"billionaires": {
+			"value": 4,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_the_number_of_US_dollar_billionaires"
+			}
+		},
+		"prisonPopulationTotal": {
+			"value": 130002,
+			"percentage": 0.14,
+			"source": {
+				"domain": "prisonstudies.org",
+				"url": "http://www.prisonstudies.org/highest-to-lowest/prison-population-total?field_region_taxonomy_tid=All"
+			}
+		},
+		"suffrage": {
+			"value": "18 years of age",
+			"source": {
+				"domain": "cia.gov",
+				"url": "https://www.cia.gov/library/publications/the-world-factbook/fields/311.html"
+			}
+		}
+	},
+	"food": {
+		"alcoholConsumption": {
+			"beer": 6.42,
+			"wine": 0.03,
+			"spirits": 0.13,
+			"others": 0,
+			"total": 6.6,
+			"unit": "litres per capita per year",
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_alcohol_consumption"
+			}
+		},
+		"mcDonaldsRestaurants": {
+			"value": 17,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "http://en.wikipedia.org/wiki/List_of_countries_with_McDonald's_restaurants"
+			}
+		}
+	},
+	"technology": {
+		"internetUsers": {
+			"value": 47359575,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users"
+			}
+		},
+		"internetRank": {
+			"value": 17,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users"
+			}
+		},
+		"internetCountryCode": "vn",
+		"browsers": {
+			"ie": 1.05,
+			"edge": 0.82,
+			"chrome": 61.32,
+			"safari": 11.22,
+			"firefox": 3.72,
+			"others": 21.87,
+			"source": {
+				"domain": "statcounter.com",
+				"url": "http://gs.statcounter.com/browser-market-share/all/vietnam/#monthly-201801-201901"
+			}
+		},
+		"averageDownload": {
+			"unit": "Mbps",
+			"value": 27.64,
+			"source": {
+				"domain": "speedtest.net",
+				"url": "https://www.speedtest.net/global-index/vietnam"
+			}
+		},
+		"averageUpload": {
+			"unit": "Mbps",
+			"value": 27.63,
+			"source": {
+				"domain": "speedtest.net",
+				"url": "https://www.speedtest.net/global-index/vietnam"
+			}
+		},
+		"mobileSubscribers": {
+			"value": 72300000,
+			"percentage": 80,
+			"source": {
+				"domain": "wikipedia.org",
+				"url": "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use"
+			}
+		},
+		"socialMediaUsers": {
+			"facebook": 0,
+			"instagram": 0,
+			"messenger": 0,
+			"source": {
+				"domain": "napoleoncat.com",
+				"url": "https://napoleoncat.com/stats/social-media-users-in-Vietnam/2019/01"
+			}
+		}
+	}
+}

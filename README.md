@@ -24,6 +24,10 @@
 
 # **Available countries**
 
+Asia
+--
+* 🇻🇳 [Vietnam](./datasets/asia/vn.json)
+
 Western Africa
 --
 * 🇹🇬 [Togo](./datasets/western-africa/tg.json)
