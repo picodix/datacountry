@@ -28,6 +28,7 @@ Asia
 --
 * 🇻🇳 [Vietnam](./datasets/asia/vn.json)
 * 🇺🇿 [Uzbekistan](./datasets/asia/uz.json)
+* 🇹🇲 [Turkmenistan](./datasets/asia/tm.json)
 
 Western Africa
 --
