@@ -40,6 +40,7 @@ Asia
 * 🇯🇵 [Japan](./datasets/asia/jp.json)
 * 🇮🇩 [Indonesia](./datasets/asia/id.json)
 * 🇮🇳 [India](./datasets/asia/in.json)
+* 🇨🇳 [China](./datasets/asia/cn.json)
 
 Western Africa
 --
