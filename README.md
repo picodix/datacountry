@@ -39,6 +39,7 @@ Asia
 * 🇲🇾 [Malaysia](./datasets/asia/my.json)
 * 🇯🇵 [Japan](./datasets/asia/jp.json)
 * 🇮🇩 [Indonesia](./datasets/asia/id.json)
+* 🇮🇳 [India](./datasets/asia/in.json)
 
 Western Africa
 --
